@@ -3,58 +3,66 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ujjal+Roy;Passionate+Frontend+Developer+from+Bangladesh;React+|+TypeScript+|+Modern+UI+Design;Continuously+seeking+new+challenges+in+web+development!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=800&lines=Ujjal+Chandro+Ray;Professional+Frontend+Developer;React+Expert+%26+Full-Stack+Capable;Building+Scalable+and+Elegant+Web+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me: The Frontend Architect
+## 🚀 About Me: Frontend Excellence with Full-Stack Vision
 
-I am a **Frontend Developer** specializing in building highly performant, accessible, and aesthetically pleasing web applications. I focus on translating complex design ideas into **pixel-perfect, responsive user interfaces**.
+I am **Ujjal Chandro Ray**, a professional and highly motivated Frontend Developer dedicated to building exceptional user experiences. While my core expertise lies in **React.js** and modern UI development, my comprehensive knowledge of **Node.js, Python, and Java** allows me to architect solutions with a complete understanding of the entire application lifecycle.
 
-* 🔭 I specialize in the **React** ecosystem, crafting scalable single-page applications.
-* 🌱 I am actively mastering **TypeScript** to introduce robust type-checking and enhance code quality in my React projects.
-* 💡 My passion lies in **Clean UI/UX Design** and creating minimal, intuitive layouts.
-* 💬 Ask me about **React, JavaScript, Tailwind CSS, or component-based design**.
-* 📧 Reach me directly at: **mdmizu634431@gmail.com** (I kept your original email address).
+* ✅ **Role Focus:** Architecting and implementing responsive, high-performance, and pixel-perfect user interfaces using **React.js**.
+* 🌐 **Full-Stack Awareness:** Leveraging knowledge of **Node.js, Python, and Java** to ensure seamless integration and efficient API design.
+* 💡 **Design Principle:** Obsessed with clean code, modular architecture, and utilizing **Tailwind CSS** for rapid and utility-first styling.
+* 💬 **Ask Me About:** Complex state management in React, front-to-back integration strategies, or UI/UX best practices.
+* 📧 **Connect:** Reach out directly at: **`ujjalchandroray81@gmail.com`** *(Email updated)*
 
 ---
 
-## 🛠️ Tech Stack & Toolkit
+## 🛠️ Core Technology Stack
 
-I leverage a modern set of tools to deliver professional, high-quality solutions.
+A look at the languages and frameworks I use to bring projects to life, covering both frontend and foundational backend skills.
 
+### Frontend & UI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,figma,git,ps,ai,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+</p>
+
+### Full-Stack & Backend Foundations
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java" />
+</p>
+
+### Tools & Version Control
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Collaborate
 
-Feel free to reach out—I'm always open to discussing new projects, sharing knowledge, or collaborating on innovative ideas.
+I am always interested in projects that challenge me to apply and expand my full-stack capabilities.
 
 <p align="center">
-  <a href="https://twitter.com/ahmmedmizu60051" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" />
-  </a>
   <a href="https://linkedin.com/in/mizuahmmed" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
-  <a href="https://www.facebook.com/mizuahmmedjim.mizu.3" target="_blank">
+  <a href="https://twitter.com/ahmmedmizu60051" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="40" />
+  </a>
+  <a href="https://www.facebook.com/ujjalchandro.roy.3" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="40" />
-  </a>
-  <a href="https://instagram.com/mizuahmmedjim" target="blank">
-    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
-  </a>
+  </a> *(Facebook URL updated)*
 </p>
 
 ---
 
-## 📊 My GitHub Activity
+## 📊 GitHub Performance & Contributions
 
-Showcasing my commitment to continuous development.
+My activity reflects a commitment to continuous coding and learning.
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -67,24 +75,16 @@ Showcasing my commitment to continuous development.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=royujjal81&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=royujjal81&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=royujjal81&theme=radical" alt="Profile Summary" />
 </p>
 
 ---
 
-### ✨ Philosophy
+### ✨ Vision Statement
 
-> **"Building things that live beautifully on the web."**
+> **"Delivering elegance and efficiency: Building the frontend beautifully, backed by robust architecture."**
 >
-> *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+> *"Measuring programming progress by lines of code is like measuring aircraft building progress by weight." – Bill Gates*
 
 ---
 
