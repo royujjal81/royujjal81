@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src=""
+    src="https://github.com/royujjal81/royujjal81/blob/main/ujjal%20roy.png"
     alt="Ujjal Chandro Ray Banner"
     width="100%"
   />
