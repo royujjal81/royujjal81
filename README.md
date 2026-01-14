@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/royujjal81/royujjal81/blob/main/ujjal%20roy.png" alt="Ujjal Chandro Ray Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/royujjal81/royujjal81/main/banner.png" alt="Ujjal Chandro Ray Banner" width="100%">
 </p>
 
 <p align="center">
@@ -12,12 +12,12 @@
 
 ## 🚀 About Me: Frontend Excellence with Full-Stack Vision
 
-I am **Ujjal Chandro Ray**, a professional and highly motivated Frontend Developer dedicated to building exceptional user experiences. While my core expertise lies in **React.js** and modern UI development, my knowledge of **Node.js, Python, and Java** allows me to architect solutions with a complete understanding of the entire application lifecycle.
+I am **Ujjal Chandro Ray**, a professional Frontend Developer focused on building high-performance, scalable, and elegant web applications. My core expertise lies in **React.js**, with solid knowledge of **Node.js, Python, and Java** for full-stack awareness.
 
-* ✅ **Role Focus:** Architecting and implementing responsive, high-performance, and pixel-perfect user interfaces using **React.js**.
-* 🌐 **Full-Stack Awareness:** Leveraging knowledge of **Node.js, Python, and Java** to ensure seamless integration and efficient API design.
-* 💡 **Design Principle:** Obsessed with clean code, modular architecture, and utilizing **Tailwind CSS** for rapid and utility-first styling.
-* 💬 **Ask Me About:** Complex state management in React, front-to-back integration strategies, or UI/UX best practices.
+* ✅ **Role Focus:** Architecting responsive, pixel-perfect UI with **React.js**.  
+* 🌐 **Full-Stack Awareness:** Ensuring seamless integration using **Node.js, Python, Java**.  
+* 💡 **Design Principle:** Clean code, modular architecture, and utility-first styling with **Tailwind CSS**.  
+* 💬 **Ask Me About:** Complex state management, front-to-back integration, UI/UX best practices.  
 * 📧 **Connect:** **ujjalchandroray81@gmail.com**
 
 ---
@@ -57,17 +57,21 @@ I am **Ujjal Chandro Ray**, a professional and highly motivated Frontend Develop
 ---
 
 ## 📊 GitHub Performance & Contributions
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/royujjal81">
     <img src="https://github-profile-trophy.vercel.app/?username=royujjal81&theme=dracula&margin-w=10&row=1" alt="GitHub Trophies" />
   </a>
 </p>
 
 <p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=royujjal81&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=royujjal81&theme=radical" alt="GitHub Streak" />
 </p>
 
