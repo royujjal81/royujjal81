@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/royujjal81/royujjal81/main/banner.png" alt="Ujjal Chandro Ray Banner" width="100%">
+  <img src="ujjal roy.png" alt="Ujjal Chandro Ray Banner" width="100%">
 </p>
 
 <p align="center">
